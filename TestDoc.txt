@@ -1,1 +1,1 @@
-This is a test doc for editing, to learn how GitHub works.
+This is a test doc for editing. Time to learn how GitHub works!
